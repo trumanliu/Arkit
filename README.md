@@ -7,5 +7,5 @@
 1. 任意的mac电脑。air pro macbook imac等。目前我用的是mac air 2015.
 2. Xcode 9 beta  [https://developer.apple.com/download/](https://developer.apple.com/download/) 当前最新版本为 beta 3
 3. iOS 11 的设备。截至目前，iOS11的正式版还没有发布,要想尝试，需要下载public beta。升级public beta的方法为，使用iOS设备访问 [http://beta.apple.com/profile](http://beta.apple.com/profile) 下载描述文件，重启手机，点击软件更新，然后升级。  非常不建议那常用的主力手机升级public beta，各种闪退。
-4. 支持ARKit的硬件。理论上来说ARKit开发的app是可以跑在所有运行iOS11的设备上的。但要全面的支持ARKit，需要A9或以上的处理器。就iPad来说，需要iPad 2017或者pro版本，iPhone 需要6s或以上版本。很遗憾，iphone 6 不支持，iPad mini2也不行。非常建议买一台iPad 2017既可以升级iPad产品有可以用最便宜的加钱学习ARKit。  
+4. 支持ARKit的硬件。理论上来说ARKit开发的app是可以跑在所有运行iOS11的设备上的。但要全面的支持ARKit，需要A9或以上的处理器。就iPad来说，需要iPad 2017或者pro版本，iPhone 需要6s或以上版本。很遗憾，iphone 6 不支持，iPad mini2也不行。非常建议买一台iPad 2017既可以升级iPad产品有可以用最便宜的价钱学习ARKit。  
   
